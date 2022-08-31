@@ -2,6 +2,60 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.9.0](https://github.com/samwise-app/shopkeep/compare/v0.8.0...v0.9.0) (2022-08-31)
+
+
+### ⚠ BREAKING CHANGES
+
+* Need to npm ci
+
+* test
+
+* chore(release): 0.4.0
+
+* chore(release): 0.4.1
+
+* chore(release): 0.4.2
+
+* chore(release): 0.4.3
+
+* stashing changes
+
+* added git push
+
+* added hook messages
+
+* more work on the pre-commit hook
+
+* more work on the pre-commit hook
+
+* more work on the pre-commit hook
+* Need to npm ci
+
+* test
+
+* chore(release): 0.4.0
+
+* chore(release): 0.4.1
+
+* chore(release): 0.4.2
+
+* chore(release): 0.4.3
+
+* stashing changes
+
+* added git push
+
+* added hook messages
+
+* more work on the pre-commit hook
+
+* more work on the pre-commit hook
+
+* more work on the pre-commit hook
+
+* add type guard for sizing ([c2e2c0e](https://github.com/samwise-app/shopkeep/commit/c2e2c0e606e27aaae199fb87177f12daf9be44ca)), closes [#2](https://github.com/samwise-app/shopkeep/issues/2) [#3](https://github.com/samwise-app/shopkeep/issues/3) [#5](https://github.com/samwise-app/shopkeep/issues/5) [#10](https://github.com/samwise-app/shopkeep/issues/10) [#14](https://github.com/samwise-app/shopkeep/issues/14) [#18](https://github.com/samwise-app/shopkeep/issues/18) [#23](https://github.com/samwise-app/shopkeep/issues/23) [#21](https://github.com/samwise-app/shopkeep/issues/21) [#2](https://github.com/samwise-app/shopkeep/issues/2) [#3](https://github.com/samwise-app/shopkeep/issues/3) [#5](https://github.com/samwise-app/shopkeep/issues/5) [#10](https://github.com/samwise-app/shopkeep/issues/10) [#14](https://github.com/samwise-app/shopkeep/issues/14) [#18](https://github.com/samwise-app/shopkeep/issues/18)
+
 ## [0.7.0](https://github.com/samwise-app/shopkeep/compare/v0.6.1...v0.7.0) (2022-08-21)
 
 
@@ -172,8 +226,6 @@ All notable changes to this project will be documented in this file. See [standa
 
 * minor release for button component (#12) ([ad516f0](https://github.com/samwise-app/shopkeep/commit/ad516f0e27e7f101177c061f57e06bdd47c90813)), closes [#12](https://github.com/samwise-app/shopkeep/issues/12) [#2](https://github.com/samwise-app/shopkeep/issues/2) [#3](https://github.com/samwise-app/shopkeep/issues/3) [#5](https://github.com/samwise-app/shopkeep/issues/5) [#10](https://github.com/samwise-app/shopkeep/issues/10)
 
-=======
->>>>>>> 0ac9f468045bd69b0bab555bd282420aed62eb0c
 ### [0.4.13](https://github.com/samwise-app/shopkeep/compare/v0.4.7...v0.4.13) (2022-08-05)
 
 ### [0.4.12](https://github.com/samwise-app/shopkeep/compare/v0.4.7...v0.4.12) (2022-08-05)
