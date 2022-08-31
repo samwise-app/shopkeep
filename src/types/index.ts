@@ -1,3 +1,5 @@
+import type { volumes } from '../lib/utils/parseCSS';
+
 type LiteralUnion<T extends string | number> = T | Omit<T, T>;
 
 export type Sizes = 'sm' | 'small' | 'md' | 'medium' | 'lg' | 'large';
@@ -10,7 +12,6 @@ export enum Colors {
 	prime = 'prime'
 }
 
-export const volumes = ['low', 'medium', 'high'] as const;
 export type Volume = typeof volumes[number];
 
 export type ColorStrings = 'green' | 'purple' | 'teal' | 'orange';

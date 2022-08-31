@@ -1,5 +1,6 @@
 import type { Styles, Volume } from '../../types';
-import { volumes } from '../../types';
+
+export const volumes = ['low', 'medium', 'high'] as const;
 
 interface Map {
 	[key: string]: string;
