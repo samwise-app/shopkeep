@@ -2,6 +2,60 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.10.0](https://github.com/samwise-app/shopkeep/compare/v0.9.0...v0.10.0) (2022-08-31)
+
+
+### ⚠ BREAKING CHANGES
+
+* Need to npm ci
+
+* test
+
+* chore(release): 0.4.0
+
+* chore(release): 0.4.1
+
+* chore(release): 0.4.2
+
+* chore(release): 0.4.3
+
+* stashing changes
+
+* added git push
+
+* added hook messages
+
+* more work on the pre-commit hook
+
+* more work on the pre-commit hook
+
+* more work on the pre-commit hook
+* Need to npm ci
+
+* test
+
+* chore(release): 0.4.0
+
+* chore(release): 0.4.1
+
+* chore(release): 0.4.2
+
+* chore(release): 0.4.3
+
+* stashing changes
+
+* added git push
+
+* added hook messages
+
+* more work on the pre-commit hook
+
+* more work on the pre-commit hook
+
+* more work on the pre-commit hook
+
+* Development (#26) ([183591a](https://github.com/samwise-app/shopkeep/commit/183591a0941bec8d8402f4c1bb217837e7deaa97)), closes [#26](https://github.com/samwise-app/shopkeep/issues/26) [#2](https://github.com/samwise-app/shopkeep/issues/2) [#3](https://github.com/samwise-app/shopkeep/issues/3) [#5](https://github.com/samwise-app/shopkeep/issues/5) [#10](https://github.com/samwise-app/shopkeep/issues/10) [#14](https://github.com/samwise-app/shopkeep/issues/14) [#18](https://github.com/samwise-app/shopkeep/issues/18) [#23](https://github.com/samwise-app/shopkeep/issues/23) [#21](https://github.com/samwise-app/shopkeep/issues/21) [#2](https://github.com/samwise-app/shopkeep/issues/2) [#3](https://github.com/samwise-app/shopkeep/issues/3) [#5](https://github.com/samwise-app/shopkeep/issues/5) [#10](https://github.com/samwise-app/shopkeep/issues/10) [#14](https://github.com/samwise-app/shopkeep/issues/14) [#18](https://github.com/samwise-app/shopkeep/issues/18)
+
 ## [0.9.0](https://github.com/samwise-app/shopkeep/compare/v0.8.0...v0.9.0) (2022-08-31)
 
 
